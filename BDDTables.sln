@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDDTables", "BDDTables\BDDTables.csproj", "{590DF43A-5E4D-410A-A221-CA13E3B40E00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DebugCloudAndroid|Any CPU = DebugCloudAndroid|Any CPU
+		DebugCloudChrome|Any CPU = DebugCloudChrome|Any CPU
+		DebugCloudFireFox|Any CPU = DebugCloudFireFox|Any CPU
+		DebugCloudIE|Any CPU = DebugCloudIE|Any CPU
+		DebugCloudIOS|Any CPU = DebugCloudIOS|Any CPU
+		DebugLocalAndroid|Any CPU = DebugLocalAndroid|Any CPU
+		DebugLocalChrome|Any CPU = DebugLocalChrome|Any CPU
+		DebugLocalFireFox|Any CPU = DebugLocalFireFox|Any CPU
+		DebugLocalIE|Any CPU = DebugLocalIE|Any CPU
+		localtest|Any CPU = localtest|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{590DF43A-5E4D-410A-A221-CA13E3B40E00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{590DF43A-5E4D-410A-A221-CA13E3B40E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{590DF43A-5E4D-410A-A221-CA13E3B40E00}.DebugCloudAndroid|Any CPU.ActiveCfg = Debug|Any CPU
+		{590DF43A-5E4D-410A-A221-CA13E3B40E00}.DebugCloudAndroid|Any CPU.Build.0 = Debug|Any CPU
+		{590DF43A-5E4D-410A-A221-CA13E3B40E00}.DebugCloudChrome|Any CPU.ActiveCfg = Debug|Any CPU
+		{590DF43A-5E4D-410A-A221-CA13E3B40E00}.DebugCloudChrome|Any CPU.Build.0 = Debug|Any CPU
+		{590DF43A-5E4D-410A-A221-CA13E3B40E00}.DebugCloudFireFox|Any CPU.ActiveCfg = Debug|Any CPU
+		{590DF43A-5E4D-410A-A221-CA13E3B40E00}.DebugCloudFireFox|Any CPU.Build.0 = Debug|Any CPU
+		{590DF43A-5E4D-410A-A221-CA13E3B40E00}.DebugCloudIE|Any CPU.ActiveCfg = Debug|Any CPU
+		{590DF43A-5E4D-410A-A221-CA13E3B40E00}.DebugCloudIE|Any CPU.Build.0 = Debug|Any CPU
+		{590DF43A-5E4D-410A-A221-CA13E3B40E00}.DebugCloudIOS|Any CPU.ActiveCfg = Debug|Any CPU
+		{590DF43A-5E4D-410A-A221-CA13E3B40E00}.DebugCloudIOS|Any CPU.Build.0 = Debug|Any CPU
+		{590DF43A-5E4D-410A-A221-CA13E3B40E00}.DebugLocalAndroid|Any CPU.ActiveCfg = Debug|Any CPU
+		{590DF43A-5E4D-410A-A221-CA13E3B40E00}.DebugLocalAndroid|Any CPU.Build.0 = Debug|Any CPU
+		{590DF43A-5E4D-410A-A221-CA13E3B40E00}.DebugLocalChrome|Any CPU.ActiveCfg = Debug|Any CPU
+		{590DF43A-5E4D-410A-A221-CA13E3B40E00}.DebugLocalChrome|Any CPU.Build.0 = Debug|Any CPU
+		{590DF43A-5E4D-410A-A221-CA13E3B40E00}.DebugLocalFireFox|Any CPU.ActiveCfg = Debug|Any CPU
+		{590DF43A-5E4D-410A-A221-CA13E3B40E00}.DebugLocalFireFox|Any CPU.Build.0 = Debug|Any CPU
+		{590DF43A-5E4D-410A-A221-CA13E3B40E00}.DebugLocalIE|Any CPU.ActiveCfg = Debug|Any CPU
+		{590DF43A-5E4D-410A-A221-CA13E3B40E00}.DebugLocalIE|Any CPU.Build.0 = Debug|Any CPU
+		{590DF43A-5E4D-410A-A221-CA13E3B40E00}.localtest|Any CPU.ActiveCfg = Release|Any CPU
+		{590DF43A-5E4D-410A-A221-CA13E3B40E00}.localtest|Any CPU.Build.0 = Release|Any CPU
+		{590DF43A-5E4D-410A-A221-CA13E3B40E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{590DF43A-5E4D-410A-A221-CA13E3B40E00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E4F9699-C52D-491C-BA89-D834AC2D07D8}
+	EndGlobalSection
+EndGlobal
